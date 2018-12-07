@@ -10,7 +10,7 @@ Specifying a location at LATITUDE,LONGITUDE in terms of the North-South HEADING,
 
 ### Automatic Acquisition of Images via Python
 
-The script to be run is saved [here](https://raw.githubusercontent.com/ooichinchun/Map2Geometry/ScreenshotGoogleMaps/save_maps.py) and can be understood in terms of the following sections.
+The script to be run is saved [here](https://raw.githubusercontent.com/ooichinchun/Map2Geometry/master/ScreenshotGoogleMaps/save_maps.py) and can be understood in terms of the following sections.
 
 #### 01. Install Selenium and Chromedriver
 
@@ -23,7 +23,7 @@ Images are saved in a pre-specified directory.
 
 #### 03. Acquire images for a top-down view
 
-| ![Top-Down Image](https://raw.githubusercontent.com/ooichinchun/Map2Geometry/ScreenshotGoogleMaps/test_top.png "Top-Down Image") | 
+| ![Top-Down Image](https://raw.githubusercontent.com/ooichinchun/Map2Geometry/master/ScreenshotGoogleMaps/test_top.png "Top-Down Image") | 
 |:--:| 
 | **Sample top-down image that was automatically acquired** |
 
@@ -31,7 +31,7 @@ Images are saved in a pre-specified directory.
 
 As written currently, images are acquired in steps of 5<sup>o</sup> between 0 and 45 degrees.
 
-| ![Image at Tilt of 20<sup>o</sup>](https://raw.githubusercontent.com/ooichinchun/Map2Geometry/ScreenshotGoogleMaps/test_20_tilt.png "20 Degree Image") | 
+| ![Image at Tilt of 20 degrees](https://raw.githubusercontent.com/ooichinchun/Map2Geometry/master/ScreenshotGoogleMaps/test_20_tilt.png "20 Degree Image") | 
 |:--:| 
 | **Sample image with a tilt** |
 
@@ -39,6 +39,6 @@ As written currently, images are acquired in steps of 5<sup>o</sup> between 0 an
 
 As written currently, images are acquired in steps of 10<sup>o</sup> between 0 and 360 degrees at a tilt of 45<sup>o</sup>. 
 
-| ![Rotating view of area of interest](https://raw.githubusercontent.com/ooichinchun/Map2Geometry/ScreenshotGoogleMaps/rotate.gif "360 Degree Image") | 
+| ![Rotating view of area of interest](https://raw.githubusercontent.com/ooichinchun/Map2Geometry/master/ScreenshotGoogleMaps/rotate.gif "360 Degree Image") | 
 |:--:| 
 | **Sample image with 360 degree rotation** |
