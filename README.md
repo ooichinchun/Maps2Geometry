@@ -3,7 +3,7 @@ Scripts for converting OpenStreetMap / Google Maps data to 3D Geometry Informati
 
 This repo contains all the code required to convert open source data from Open Street Maps into CAD geometries for further downstream processing such as Computational Fluid Dynamics (CFD) simulations.
 
-Only codes and documentation are provided due to the size of the geometry files but data files can be requested from us if desired.
+Only codes and documentation are provided due to the size of the geometry files but sample data files can be requested from us if desired.
 
 ### Workflow
 There are 3 parts to this workflow:
