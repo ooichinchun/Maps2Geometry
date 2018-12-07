@@ -39,4 +39,4 @@ Open-source photogrammetry software exists, and open-source CAD programs that ca
 
 Note: This is not an official IHPC product, but please credit this work if this is helpful to you.
 
-This work is a joint effort by Raymond Quek and [Ooi Chin Chun](ooicc@ihpc.a-star.edu.sg) from the Institute of High Performance Computing, A* Singapore.
+This work is a joint effort by Raymond Quek and [Ooi Chin Chun](mailto:ooicc@ihpc.a-star.edu.sg) from the Institute of High Performance Computing, A* Singapore.
