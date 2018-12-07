@@ -23,7 +23,7 @@ Images are saved in a pre-specified directory.
 
 #### 03. Acquire images for a top-down view
 
-| ![Top-Down Image](https://raw.githubusercontent.com/ooichinchun/Map2Geometry/master/ScreenshotGoogleMaps/test_top.png "Top-Down Image") | 
+| ![Top-Down Image](https://github.com/ooichinchun/Maps2Geometry/blob/master/ScreenshotGoogleMaps/test_top.png "Top-Down Image") | 
 |:--:| 
 | **Sample top-down image that was automatically acquired** |
 
@@ -31,7 +31,7 @@ Images are saved in a pre-specified directory.
 
 As written currently, images are acquired in steps of 5<sup>o</sup> between 0 and 45 degrees.
 
-| ![Image at Tilt of 20 degrees](https://raw.githubusercontent.com/ooichinchun/Map2Geometry/master/ScreenshotGoogleMaps/test_20_tilt.png "20 Degree Image") | 
+| ![Image at Tilt of 20 degrees](https://github.com/ooichinchun/Maps2Geometry/blob/master/ScreenshotGoogleMaps/test_20_tilt.png "20 Degree Image") | 
 |:--:| 
 | **Sample image with a tilt** |
 
@@ -39,6 +39,6 @@ As written currently, images are acquired in steps of 5<sup>o</sup> between 0 an
 
 As written currently, images are acquired in steps of 10<sup>o</sup> between 0 and 360 degrees at a tilt of 45<sup>o</sup>. 
 
-| ![Rotating view of area of interest](https://raw.githubusercontent.com/ooichinchun/Map2Geometry/master/ScreenshotGoogleMaps/rotate.gif "360 Degree Image") | 
+| ![Rotating view of area of interest](https://github.com/ooichinchun/Maps2Geometry/blob/master/ScreenshotGoogleMaps/rotate.gif "360 Degree Image") | 
 |:--:| 
 | **Sample image with 360 degree rotation** |
