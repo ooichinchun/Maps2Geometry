@@ -26,6 +26,12 @@ The script to be used here is [ExtractHeights.py](https://github.com/ooichinchun
 
 The specified vertices and heights contained in the output file from Step 2 can be processed with this [script](https://github.com/ooichinchun/Maps2Geometry/blob/master/ExtractGeometryHeights/read_heights_extrude_geometries.py) in Rhino to automatically create the points, lines, planar surfaces, and 3-D geometries.  
 
+| ![Sample 3D geometry](https://github.com/ooichinchun/Maps2Geometry/blob/master/ExtractGeometryHeights/ExtrudedGeometry.JPG "Sample 3D geometry") | 
+|:--:| 
+| **Sample 3D geometry in Rhino** |
+
+In the sample above, the red points represent the vertices in the file, whle the extruded volumes correspond to the heights as identified by photogrammetry. The outer regions only contain planar surfaces as the photogrammetry mesh did not cover that area.
+
 The resulting 3D geometry can then be saved as any CAD geometry file of choice. 
 
 
