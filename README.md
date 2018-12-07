@@ -38,3 +38,5 @@ Three commercial programs are used in this workflow.
 Open-source photogrammetry software exists, and open-source CAD programs that can handle the conversion between CAD file formats can be used, but some re-formatting of data is anticipated.
 
 Note: This is not an official IHPC product, but please credit this work if this is helpful to you.
+
+This work is a joint effort by Raymond Quek and [Ooi Chin Chun](ooicc@ihpc.a-star.edu.sg) from the Institute of High Performance Computing, A* Singapore.
