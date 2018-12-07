@@ -25,6 +25,8 @@ There are 3 parts to this workflow:
    (c) Loop through all the 2D geometries and find their corresponding heights as per the point cloud.  
    (d) Re-create the geometries and create the 3D extrusion for export as 3D CAD geometry.  
 
+Additional details for Parts 1-3 are in subdirectories (1) SimplifyOpenStreetMap / (2) ScreenshotGoogleMaps / (3) ExtractGeometryHeights respectively 
+
 Three commercial programs are used in this workflow.  
  - [Adobe Illustrator](https://www.adobe.com/sea/products/illustrator.html) is used to convert files between .pdf, .svg and .dwg formats, and to obtain the color codes for the geometry objects of interest.  
  - [Agisoft PhotoScan](https://www.agisoft.com) is used to convert the google map images into a 3D mesh file.  
