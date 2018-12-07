@@ -26,9 +26,9 @@ There are 3 parts to this workflow:
    (d) Re-create the geometries and create the 3D extrusion for export as 3D CAD geometry.  
 
 Three commercial programs are used in this workflow.  
- - Adobe Illustrator is used to convert files between .pdf, .svg and .dwg formats, and to obtain the color codes for the geometry objects of interest.  
- - Agisoft PhotoScan is used to convert the google map images into a 3D mesh file.  
- - Rhinoceros is used for aligning the meshes, and is used for the 3D geometry regeneration.  
+ - [Adobe Illustrator](https://www.adobe.com/sea/products/illustrator.html) is used to convert files between .pdf, .svg and .dwg formats, and to obtain the color codes for the geometry objects of interest.  
+ - [Agisoft PhotoScan](https://www.agisoft.com) is used to convert the google map images into a 3D mesh file.  
+ - [Rhinoceros](https://www.rhino3d.com) is used for aligning the meshes, and is used for the 3D geometry regeneration.  
  
 Open-source photogrammetry software exists, and open-source CAD programs that can handle the conversion between CAD file formats can be used, but some re-formatting of data is anticipated.
 
