@@ -16,7 +16,9 @@ We then run the [script](https://github.com/ooichinchun/Maps2Geometry/blob/maste
 
 #### 02. Find the height of the 2-D building geometries via Python
 
-We save the 2-D building geometry as an .obj file from Rhino, and filter the vertices saved from Step 01 for the various 2D footprints. From there, our script extracts the 95th percentile of the height of the mesh points within each building footprint, and saves that into another text file that retains the individual vertices, along with the associated height. Objects which are not in the photogrammetry mesh are saved with height as 0m.
+We save the 2-D building geometry as an .obj file from Rhino, and filter the vertices saved from Step 01 for the various 2D footprints. From there, our script extracts the 95th percentile of the height of the mesh points within each building footprint, and saves that into another text file that retains the individual vertices, along with the associated height. Objects which are not in the photogrammetry mesh are saved with a default height of 0m. 
+
+This default height can be easily adjusted within the script if so desired.
 
 The script to be used here is [ExtractHeights.py](https://github.com/ooichinchun/Maps2Geometry/blob/master/ExtractGeometryHeights/ExtractHeights.py)
 
