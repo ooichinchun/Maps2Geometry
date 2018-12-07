@@ -39,6 +39,6 @@ As written currently, images are acquired in steps of 5<sup>o</sup> between 0 an
 
 As written currently, images are acquired in steps of 10<sup>o</sup> between 0 and 360 degrees at a tilt of 45<sup>o</sup>. 
 
-| ![Rotating view of area of interest](https://github.com/ooichinchun/Maps2Geometry/blob/master/ScreenshotGoogleMaps/rotate.gif "360 Degree Image") | 
+| ![Rotating view of area of interest](https://github.com/ooichinchun/Maps2Geometry/blob/master/ScreenshotGoogleMaps/rotated.gif "360 Degree Image") | 
 |:--:| 
 | **Sample image with 360 degree rotation** |
