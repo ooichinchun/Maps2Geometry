@@ -30,7 +30,7 @@ Another text file will be generated containing the vertices of all the convex hu
 
 In our experience, the geometry objects are typically represented in only 3 forms in the input svg files: as line 'path', as 'rect' objects, and as 'polygon' objects. Only these 3 formats are handled here, and it is worth noting that additional code might be required if the svg file formats differ significantly.
 
-| ![Sample Convex Hull Conversion](https://github.com/ooichinchun/Maps2Geometry/blob/master/SimplifyOpenStreetMap/ConvexHull.jpg "Convex Hull Simplification of Geometry") | 
+| ![Sample Convex Hull Conversion](https://github.com/ooichinchun/Maps2Geometry/blob/master/SimplifyOpenStreetMap/ConvexHull.JPG "Convex Hull Simplification of Geometry") | 
 |:--:| 
 | **Sample of how the convex hull algorithm affects the geometry** |
 
