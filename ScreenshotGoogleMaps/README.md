@@ -10,7 +10,7 @@ Specifying a location at LATITUDE,LONGITUDE in terms of the North-South HEADING,
 
 ### Automatic Acquisition of Images via Python
 
-The script to be run is saved [here](https://raw.githubusercontent.com/ooichinchun/Map2Geometry/master/ScreenshotGoogleMaps/save_maps.py) and can be understood in terms of the following sections.
+The script to be run is saved [here](https://github.com/ooichinchun/Maps2Geometry/blob/master/ScreenshotGoogleMaps/save_maps.py) and can be understood in terms of the following sections.
 
 #### 01. Install Selenium and Chromedriver
 
